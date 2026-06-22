@@ -1,0 +1,1 @@
+{`n  "name": "github-readme-stats",`n  "version": "1.0.0",`n  "description": "GitHub README stats generator",`n  "main": "index.js",`n  "scripts": {`n    "start": "node index.js"`n  },`n  "dependencies": {`n    "express": "^4.18.2"`n  }`n}
